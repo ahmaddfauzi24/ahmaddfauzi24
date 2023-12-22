@@ -1,6 +1,6 @@
 # Hello, Everyone! 👐
 
->I'm Fauzi, a Data Enthusiast with experience in various data fields such as Data Wrangling, Data Visualization, Data Mining, Machine Learning and Model Deployment. To support my work in data field, I have completed several certifications in Python, SQL, Mathematics, Statistics and Tensorflow. I am thrilled to perform data analysis using Power BI, Tableau, and Lookerstudio with strong understanding of business acumen. 
+>I'm Fauzi, a Data Enthusiast with experience in various data fields such as Data Wrangling, Data Visualization, Data Mining, Machine Learning and Model Deployment. To support my work in data field, I have completed the certification for Full Stack Data Science at Algorithm Data Science School. I am thrilled to perform data analysis using Power Lookerstudio, BI, and Tableau with strong understanding of business acumen. 
 
 ## Technical Toolkit 🦾
 
