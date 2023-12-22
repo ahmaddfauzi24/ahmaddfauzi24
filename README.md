@@ -9,13 +9,13 @@
 >- **Programming Languages:** Python, R, and SQL
 >- **Data Science Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, and Keras
 >- **Data Visualization Tools:** Tableau, Power BI, Data Studio, Matplotlib, Seaborn, and Plotly
->- **Data Analysis Techniques:** Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Data Modeling, Statistical Analysis
+>- **Data Analysis Techniques:** Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Data Modeling, and Statistical Analysis
 >- **Big Data Technologies:** Spark and Hadoop 
->- **Database Management Systems:** MySQL & PostgreSQL
->- **Other Tools & Technologies:** Git, Jupyter, Metabase, Airflow
+>- **Database Management Systems:** MySQL and PostgreSQL
+>- **Other Tools & Technologies:** Git, Jupyter, Metabase, and Airflow
 
 ## Let's Connect! 💞
 
->Let's connect and build our opportunity to collaborate on projects to gain new insights! Reach me on [LinkedIn](https://www.linkedin.com/in/ahmaddfauzi) or drop me an [email](ahmadfauzi.wrk@gmail.com).
+>Let's connect and build our opportunity to collaborate on projects to gain new insights! Reach me on [LinkedIn](https://www.linkedin.com/in/ahmaddfauzi) or drop me an [Email](ahmadfauzi.wrk@gmail.com).
 
 ## Thanks and See You Again ! 🫂
